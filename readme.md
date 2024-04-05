@@ -5,7 +5,8 @@ Você trabalha em uma grande empresa de Cartão de Crédito e o diretor da empre
 O que fazer para evitar isso? Como saber as pessoas que têm maior tendência a cancelar o cartão?
 
 A única informação que você possui é uma base de dados com informações dos clientes, tanto clientes atuais quanto os clientes que cancelaram o cartão.
-# CONFIRA O ARTIGO
+
+# CONFIRA A RESOLUÇÃO
 https://www.linkedin.com/posts/davi-rezende-09540b222_machinelearning-ciaeanciadedados-anaerlisededados-activity-7177799685196161026-7I0C?utm_source=share&utm_medium=member_desktop
 
 # INTRODUÇÃO
